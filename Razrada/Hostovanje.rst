@@ -44,7 +44,8 @@ git remote add origin <link to repository copied from GitHub>
 Push content of the local folder to GitHub
 ----------------------------------------------
 
-git push -u origin master
+git branch -M main
+git push -u origin main
 
 
 
