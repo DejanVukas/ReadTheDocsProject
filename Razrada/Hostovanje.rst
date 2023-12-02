@@ -22,13 +22,16 @@ Create new repository on GitHub
 Initialize Git in local folder
 --------------------------------
 
+Create gitignore file and add _build folder to it.
+
 We can do it from CMD terminal with git init command, but let's do it from VS Code.
 Click on Source Control tab in VS Code (or Ctrl+Shift+G)
 Click on "Initialize Repository"
 All files in our folder are marked as the one needed to be commited to new repository.
 Type a commit note (e.g. initial commit) and press button Commit.
+Now we have created **local** git repository.
 
-Create gitignore file and add _build folder to it.
+
 
 Hook up local folder to GitHub project.
 Push content of the local folder to GitHub project.
