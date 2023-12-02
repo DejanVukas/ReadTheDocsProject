@@ -1,10 +1,6 @@
 Hostovanje
 +++++++++++
 
-Read The Docs hosting
-=======================
-
-
 GitHub workflow
 =================
 
@@ -47,6 +43,11 @@ Push content of the local folder to GitHub
 git branch -M main
 git push -u origin main
 
+
+Read The Docs hosting
+=======================
+
+Let's hook up Read the Docs to GitHub project folder.
 
 
 
