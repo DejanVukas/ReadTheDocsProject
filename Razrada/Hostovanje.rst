@@ -33,8 +33,20 @@ Now we have created **local** git repository.
 
 
 
-Hook up local folder to GitHub project.
-Push content of the local folder to GitHub project.
+Hook up local folder to GitHub project
+---------------------------------------
+
+Now we should connect to the remote repository and push the files to it.
+We have to do it from the terminal:
+Define the remote repository:
+git remote add origin <link to repository copied from GitHub>
+
+Push content of the local folder to GitHub
+----------------------------------------------
+
+git push -u origin master
+
+
 
 
 
