@@ -49,6 +49,18 @@ Read The Docs hosting
 
 Let's hook up Read the Docs to GitHub project folder.
 
+Log in to readthedocs.org.
+Click on the "Connect your Accounts"
+Click on Connect to GitHub. Consent window pops-up. Give your consent.
+
+Then click on the your user ID in the upper right corner.
+Click on "Import a Project"
+Click on the Refresh icon. Then we get the list of our repositories on the GitHub.
+Click on "+" symbol next to the repository you would like to publish on Read the Docs.
+Click Next.
+Wait for a while while documentation is building.
+Click on the ViewDocs.
+
 
 
 
