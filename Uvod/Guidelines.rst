@@ -246,3 +246,5 @@ https://elenco.com/brand/snap-circuits/
 Ако желимо да ми дефинишемо текст линка (не заборави доњу црту на крају): 
 
 `Elenco Electronics (former Snap Circuits) <https://elenco.com/brand/snap-circuits/>`_
+
+Здраво Михаило.
