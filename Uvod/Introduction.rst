@@ -144,12 +144,12 @@ Make a plan about documentation structure (chapters, subchapters).
 
 To add items to the TOC (Table Of Contents), go below content of ".. toctree::" and type new chapter/subchapter names (start typing below :, i.e. three spaces at the beginning of the line):
 
-Uvod/ReadMe
+Uvod/Introduction
 Uvod/Guidelines
 
-Make sure that documents Readme.rst and Guidelines.rst are in folder Uvod.
+Make sure that documents Introduction.rst and Guidelines.rst are in folder Uvod.
 
-Documents Readme.rst and Guidelines.rst should have sections (otherwise they do not appear in TOC section).
+Documents Introduction.rst and Guidelines.rst should have sections (otherwise they do not appear in TOC section).
 
 When we preview index.rst file, TOC shows up. In order to hide it, type in "hidden" in TOC section of index.rst file.
 
