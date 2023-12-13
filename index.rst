@@ -13,7 +13,7 @@ Hello world.
    :hidden:
    :caption: Uvod:
 
-   Uvod/ReadMe
+   Uvod/Introduction
    Uvod/Guidelines
 
 .. toctree::
