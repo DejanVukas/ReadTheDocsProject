@@ -6,8 +6,6 @@
 Welcome to ReadTheDocsProject's documentation!
 ==============================================
 
-Hello world.
-
 .. toctree::
    :maxdepth: 2
    :hidden:
