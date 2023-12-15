@@ -10,7 +10,8 @@
 import os
 import sys
 #error occurs because you are using a normal string as a path. You can put r before your normal string. It converts a normal string to a raw string
-sys.path.insert(0, os.path.abspath(r'C:\Users\Vukas\AppData\Local\Programs\Python\Python311\Lib\site-packages'))
+#sys.path.insert(0, os.path.abspath(r'C:\Users\Vukas\AppData\Local\Programs\Python\Python311\Lib\site-packages'))
+sys.path.insert(0, os.path.abspath('C:/Users/Vukas/AppData/Local/Programs/Python/Python311/Lib/site-packages'))
 import sphinx_rtd_theme
 #END OF MY CHANGES
 
