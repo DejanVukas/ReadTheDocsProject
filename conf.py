@@ -13,7 +13,8 @@ author = 'Dejan Vukas'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+#I HAVE ADDED 'SPHINX_RTD_THEME' TO EXTENSIONS
+extensions = ['sphinx_rtd_theme']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
