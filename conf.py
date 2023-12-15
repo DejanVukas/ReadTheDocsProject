@@ -6,6 +6,13 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+#I HAVE ADDED THIS SECTION BECAUSE SPHINX_RTD_THEME COULD NOT BE FOUND
+import os
+import sys
+sys.path.insert(0, os.path.abspath('C:\Users\Vukas\AppData\Local\Programs\Python\Python311\Lib\site-packages'))
+import sphinx_rtd_theme
+#END OF MY CHANGES
+
 project = 'ReadTheDocsProject'
 copyright = '2023, Dejan Vukas'
 author = 'Dejan Vukas'
