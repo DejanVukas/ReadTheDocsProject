@@ -10,7 +10,7 @@ Welcome to ReadTheDocsProject's documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Uvod:
 
@@ -18,7 +18,7 @@ Welcome to ReadTheDocsProject's documentation!
    Uvod/Guidelines
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Razrada:
 
@@ -26,7 +26,7 @@ Welcome to ReadTheDocsProject's documentation!
    Razrada/Hostovanje
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: DWDM:
 
@@ -35,3 +35,4 @@ Welcome to ReadTheDocsProject's documentation!
    DWDM/Grid
    DWDM/Transponder
    DWDM/ManipulatingWavelengths
+   DWDM/AnalogueTransmissionEffects
