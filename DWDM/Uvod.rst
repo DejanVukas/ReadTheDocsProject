@@ -13,12 +13,12 @@ Uvod
    :header-rows: 1
 
    * - Wavelength
-     - C-band
-     - L-band
-   * - Min. Wavelength [nm]
+     - Min. Wavelength [nm]
+     - Max. Wavelength [nm]
+   * - C-band
      - 1528
      - 1568
-   * - Max. Wavelength [nm]
+   * - L-band
      - 1568
      - 1610
 
