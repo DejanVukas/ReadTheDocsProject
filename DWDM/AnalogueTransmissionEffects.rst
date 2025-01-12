@@ -32,7 +32,7 @@ Dispersion is compensated with DCM (Dispersion Compensation Module) which is spe
 In higher capacity systems we have coherent detection where colour dispersion is not an issue.
 
 .. caution::
-   Do not mix 10Gb/s (or lower) capacity waves in composite signal with 100Gb/s (or higher) capacity waves, since DCM module degrades performance of coherent detection.
+   Do not mix 10Gb/s (or lower) capacity waves with 100Gb/s (or higher) capacity waves in composite signal, since DCM module degrades performance of coherent detection.
 
 Non-linear effects (e.g. Rayleigh scattering) - wavelengths can trample on other wavelengths.
 
