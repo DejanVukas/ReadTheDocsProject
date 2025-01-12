@@ -24,3 +24,11 @@ Welcome to ReadTheDocsProject's documentation!
 
    Razrada/Komponente
    Razrada/Hostovanje
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: DWDM:
+
+   DWDM/Uvod
+   DWDM/Komponente
