@@ -2,7 +2,6 @@ Transponder
 +++++++++++++++++
 
 Baud rate: [symbols/second]
-Modulation [bits/symbol] - QPSK (2 bits per symbol), 8PSK (3 bits per symbol), 16PSK (4 bits per symbol), 32PSK (5 bits per symbol), 64PSK (6 bits per symbol)
 
 .. list-table:: Modulations
    :widths: 25 25

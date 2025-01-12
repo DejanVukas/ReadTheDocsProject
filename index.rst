@@ -34,3 +34,4 @@ Welcome to ReadTheDocsProject's documentation!
    DWDM/Components
    DWDM/Grid
    DWDM/Transponder
+   DWDM/ManipulatingWavelengths
