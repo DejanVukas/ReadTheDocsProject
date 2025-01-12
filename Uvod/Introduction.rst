@@ -55,6 +55,7 @@ We will use:
 
 In CMD prompt type in:
 make html
+
 or, in my case: 
 
 .. code-block::
