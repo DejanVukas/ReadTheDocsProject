@@ -37,3 +37,5 @@ Welcome to ReadTheDocsProject's documentation!
    DWDM/ManipulatingWavelengths
    DWDM/AnalogueTransmissionEffects
    DWDM/OTDR
+   DWDM/OperationsAndMaintenance
+   DWDM/Protection
