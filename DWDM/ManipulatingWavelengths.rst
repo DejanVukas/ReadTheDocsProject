@@ -20,10 +20,7 @@ Types of ROADMs:
 #. Colorless-Directionless (CD),
 #. Colorless-Directionless-Contentionless (CDC).
 
-In Static ROADM port is tied to:
-
-#. Direction (East or West), and
-#. Colour (wavelength)
+In Static ROADM port is tied to Direction (East or West), and Colour (wavelength).
 
 In Colorless ROADM port is tied to direction only (we can pick any colour).
 
