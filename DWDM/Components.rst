@@ -1,4 +1,4 @@
-Komponente
+Components
 +++++++++++++
 
 #. Transponder

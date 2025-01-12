@@ -30,5 +30,5 @@ Welcome to ReadTheDocsProject's documentation!
    :hidden:
    :caption: DWDM:
 
-   DWDM/Uvod
-   DWDM/Komponente
+   DWDM/Introduction
+   DWDM/Components
