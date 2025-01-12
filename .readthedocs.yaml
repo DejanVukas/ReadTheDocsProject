@@ -36,3 +36,11 @@ sphinx:
 # python:
 #   install:
 #     - requirements: docs/requirements.txt
+
+#DEJAN: I have added it:
+python:
+   install:
+     - requirements: requirements.txt
+#     - requirements: docs/requirements.txt
+#Now place a requirements.txt file in the location specified above with the following text
+#sphinx-rtd-theme
