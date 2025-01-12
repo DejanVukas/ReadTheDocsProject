@@ -55,6 +55,7 @@ We will use:
 
 In CMD prompt type in:
 make html
+or, in my case: cmd /c "c:\Users\Vukas\Desktop\Dejan\Python\Projects\ReadTheDocsProject\make.bat" html
 
 Now run index.html file which is in html folder:
 
