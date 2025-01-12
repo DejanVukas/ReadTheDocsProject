@@ -17,7 +17,7 @@ Functions:
 - transmits the OTN-wrapped client on the correct wavelength
 
 Muxponder (Multiplexing Transponder)
-============
+========================================
 
 Has many lower-speed client ports (1GE and/or 10GE) and single higher-speed wave port (100G OTU4 wave).
 
