@@ -103,7 +103,9 @@ Fiber Optic Transmission Bands
      - The point of zero dispersion on classic SMF, but high attenuation
    * - 1550
      - C-band
-     - Stands for Conventional band. Covers 1525nm-1565nm. Has the lowest attenuation over SMF. Used for long-reach and DWDM applications.
+     - Stands for Conventional band. Covers 1525nm-1565nm. 
+       Has the lowest attenuation over SMF.
+       Used for long-reach and DWDM applications.
    * - 1570-1610
      - L-band
      - Stands for Long band.
