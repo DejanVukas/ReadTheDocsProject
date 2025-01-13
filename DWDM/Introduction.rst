@@ -3,6 +3,7 @@ Introduction
 
 .. note::
    These notes are taken from these videos: 
+
    #. `Optical Networking / DWDM Basics (Dense Wave Division Multiplexing) <https://www.youtube.com/watch?v=T31CQ3KdDN0&t=1268s>`_
    #. `Tutorial: Everything You Always Wanted to Know About Optical Networking <https://nanog.org/news-stories/nanog-tv/top-talks/tutorial-everything-you-always-wanted-know-about-optical-networking/>`_ 
 
