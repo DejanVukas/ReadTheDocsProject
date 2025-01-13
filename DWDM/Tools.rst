@@ -19,6 +19,7 @@ OTDR (Optical Time-Domain Reflectometer)
 Injects a series of light pulses into a fiber strand.
 
 Used to characterize a fiber, with information like:
+
 - splice points and their locations,
 - overall fiber attenuation,
 - fiber breaks and their locations (distance from the end-point).
