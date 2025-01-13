@@ -106,6 +106,7 @@ Optical Splitters and Optical Taps
 They split the signal.
 
 Use cases:
+
 #. Optical protection (50/50 splitter)
 #. Optical performance monitoring (99/1 splitter)
 
