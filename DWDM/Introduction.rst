@@ -97,10 +97,12 @@ Fiber Optic Transmission Bands
      - Usage
    * - 850
      - /
-     - Highest attenuation, used only for short reach
+     - Highest attenuation, used only for short reach (up to 100m)
    * - 1310
      - O-band
-     - The point of zero dispersion on classic SMF, but high attenuation
+     - The point of zero dispersion on classic SMF, but high attenuation.
+       
+       Primarily used for medium reach applications (up to 10km)
    * - 1550
      - C-band
      - Stands for Conventional band. Covers 1525nm-1565nm. 
@@ -110,7 +112,7 @@ Fiber Optic Transmission Bands
        Used for long-reach and DWDM applications.
    * - 1570-1610
      - L-band
-     - Stands for Long band.
+     - Stands for Long band. Used for submarine systems.
 
 
 DWDM
@@ -136,3 +138,17 @@ DWDM is the only system that delivers:
 
 #. increased capacity and
 #. increased distance
+
+DWDM grid is defined by ITU-T G.694.1 standard.
+
+CWDM (Coarse Wavelength Division Multiplexing)
+---------------------------------------------------
+
+The actual signal in a CWDM system isn't really any wider - the wide channel allows for large temperature variations. Cheaper, uncooled lasers can more easily stay within the window.
+
+Wavelength of the laser is not stable as it heats-up and cools-down.
+
+WDM
+------
+
+It is possible to buy cheap equipment which will combine 1310 and 1550nm wavelengths (used in gray optics).

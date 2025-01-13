@@ -63,6 +63,9 @@ This allows us to use elementary school addition/subtraction when measuring gain
 
 In case of optical attenuation, - OSNR becomes too low - receiver cannot detect the signal from the noise.
 To mitigate this effect we use amplifiers (e.g. EDFA amplifier), which amplifies all wavelengths at once, without terminating them.
+
+EDFA amplifiers operate in C-band.
+
 We can use:
 
 - booster or post-amplifier (on TX side),
@@ -87,6 +90,7 @@ Chromatic Dispersion
 Different frequencies of light propagate through a non-vacum at slightly different speeds. This is why optical prisms work (i.e. on the other side of the prism we get different colors).
 
 c = lambda x frequency
+
 So, lower frequency light travels slower
 
 Colour dispersion - pulses of light spread out as they travel causing ISI (Inter Symbol Interference). Receiver cannot distinguish one pulse from another.
