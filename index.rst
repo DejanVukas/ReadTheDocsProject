@@ -39,3 +39,5 @@ Welcome to ReadTheDocsProject's documentation!
    DWDM/OTDR
    DWDM/OperationsAndMaintenance
    DWDM/Protection
+   DWDM/EngineeringOpticalNetwork
+   DWDM/Tools

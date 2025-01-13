@@ -16,6 +16,10 @@ Functions:
 - wraps the client signal in an OTN frame (electronics). Adds FEC to achieve distance. Does not change Ethernet VLANs and IP packets.
 - transmits the OTN-wrapped client on the correct wavelength
 
+FEC (Forward Error Correction) adds extra/redundant information to the transmission, so the receiver can computationally "recover" from errors.
+
+In practice, FEC works by improving the required Optical Signal to Noise Ratio (OSNR), allowing improved receiver sensitivity at levels that would otherwise be unusable.
+
 Muxponder (Multiplexing Transponder)
 ========================================
 

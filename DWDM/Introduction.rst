@@ -77,9 +77,12 @@ Types of Single-Mode Fiber:
 
 #. OS1 (for indoor use),
 #. OS2 (for buried use),
-#. "Classic" SMF (a.k.a. SMF-28),
-#. Dispersion Shifted Fiber (DSF),
-#. Bend Insensitive Fiber, etc.
+#. "Classic" SMF (a.k.a. SMF-28, NDSF - Non-Dispersion Shifted Fiber), ITU-T G.652,
+#. Low Water Peak Fiber, ITU-T G.652.C/D,
+#. Dispersion Shifted Fiber (DSF), ITU-T G.653,
+#. Low-Loss Fiber, ITU-T G.654, (for submarine cables, low attenuation at the expense of dispersion)
+#. Non-Zero Dispersion Shifted Fiber, ITU-T G.655,
+#. Bend Insensitive Fiber, ITU-T G.657 (in data centers).
 
 OS1 is also called "tight buffered".
 
@@ -152,3 +155,9 @@ WDM
 ------
 
 It is possible to buy cheap equipment which will combine 1310 and 1550nm wavelengths (used in gray optics).
+
+OTN
+=====
+
+Optical Transport Network (OTN) is a set of standards allowing interoperability and the generic transport of any protocol across an optical network.
+
