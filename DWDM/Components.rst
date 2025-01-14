@@ -28,9 +28,9 @@ Muxes are entirely passive devices, requiring no power.
 
 A complete system requires a mux+demux for TX and RX.
 
-Muxes are actually optical bandpass filters, typically based on Bragga Grating - some frequencies are reflected, the rest are passed through.
+Muxes are actually optical bandpass filters, typically based on Bragg Grating - some frequencies are reflected, the rest are passed through.
 
-Muxponder has many lower-speed client ports (1GE and/or 10GE) and single higher-speed wave port (100G OTU4 wave).
+Muxponder has **many** lower-speed client ports (1GE and/or 10GE) and **single** higher-speed wave port (100G OTU4 wave).
 
 Functions:
 ---------------
@@ -52,12 +52,12 @@ It can be:
 
 ROADM is essentially a "software tuneable OADM".
 
-Some ROADMs are multi-degree - you can choose more than 2 directions (so called East and West) to pass the signal to. This allows you to build complex star topologies at a purely optical level.
+Some ROADMs are **multi-degree** - you can choose more than 2 directions (so called East and West) to pass the signal to. This allows you to build complex star topologies at a purely optical level.
 
 OTN Switching
 ===============
 
-Has many lower-speed client ports (1GE and/or 10GE) and many higher-speed wave ports (100G OTU4 wave).
+Has **many** lower-speed client ports (1GE and/or 10GE) and **many** higher-speed wave ports (100G OTU4 wave).
 
 Functions:
 -----------
@@ -114,8 +114,6 @@ Use cases:
 #. Optical protection (50/50 splitter)
 #. Optical performance monitoring (99/1 splitter)
 
-Optical protection - split your signal in half and send down two different fiber paths. On the RX side use and optical switch with power monitoring capabilities on the receiver, have it automatically pick from the strongest signal.
+Optical protection - split your signal in half and send down two different fiber paths. On the RX side use an optical switch with power monitoring capabilities on the receiver, have it automatically pick from the strongest signal.
 
 Optical performance monitoring - tap 1% of the signal and run it to a spectrum analyzer.
-
-44:55

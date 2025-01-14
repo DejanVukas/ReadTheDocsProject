@@ -58,8 +58,16 @@ A signal travels distance X and loses half of its intensity. The signal travels 
 
 Using logarithmic scale simplifies the calculations: a -3dB change is approximately half the original signal. In the example above, there is a 3dB loss per distance X. At distance 2X there is 6dB of loss.
 
-This allows us to use elementary school addition/subtraction when measuring gain/losses, which is easier.
+This allows us to use elementary school addition/subtraction when measuring **gain/losses**, which is easier.
 
+Note
+-----------
+
+.. note::
+   In absolute values, we multiply gains/losses along the way. In logarithmic values (like dB) we add/subtract them, because log(a x b) = loga +logb and log(a/b)=loga - logb!
+
+Amplifiers
+============
 
 In case of optical attenuation, - OSNR becomes too low - receiver cannot detect the signal from the noise.
 To mitigate this effect we use amplifiers (e.g. EDFA amplifier), which amplifies all wavelengths at once, without terminating them.
