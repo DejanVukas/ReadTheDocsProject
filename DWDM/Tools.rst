@@ -16,7 +16,7 @@ Has two modes of operation:
 "Relative loss" mode - result is in dB (not in dBm) - it is designed to work with a known power light source on the other end, to test the amount of loss over a particular fiber strand.
 
 .. caution::
-   Very often wrong mode of operation is selected and optical power meter readings are misinterpreted! It the readings are in dB, it is relative optical power loss, and not optical power (which is in mW or dBm)!
+   Very often wrong mode of operation is selected and optical power meter readings are misinterpreted! If the readings are in dB, it is relative optical power loss, and not optical power (which is in mW or dBm)!
 
 OTDR (Optical Time-Domain Reflectometer)
 =============================================
