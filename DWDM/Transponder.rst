@@ -1,6 +1,8 @@
 Transponder
 +++++++++++++++++
 
+Open Client Optics - possibility to use SFP transponders from other vendors
+
 Modulation
 ============
 
