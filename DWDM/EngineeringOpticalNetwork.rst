@@ -8,6 +8,11 @@ Even the best connectors and splices aren't perfect - they introduce loss.
 
 The typical budgetary figure is 0.5dB per connector.
 
+Insertion loss refers to the fiber optic light loss caused when a fiber optic component insert into one another to form the fiber optic link. 
+Absorption, misalignment or air gap between the fiber optic components are the main cause contribution to Insertion Loss.
+
+
+
 Insertion loss is also used to describe loss from muxes. It is the "penalty you pay just for inserting the fiber".
 
 Real-life examples:
@@ -20,6 +25,8 @@ Root cause:
 - Mismatched cores,
 - Misaligned cores,
 - Air gap between fibers.
+
+.. image:: /DWDM/Photos/InsertionLoss.jpg
 
 Optical Link budget
 ========================
