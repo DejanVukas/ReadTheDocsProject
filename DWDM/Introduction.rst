@@ -46,13 +46,6 @@ APC - Angled Physical Contact - green connector; They are used to minimize refle
 
 .. image:: /DWDM/Photos/UPC-and-APC-Connector.png
 
-Modulation
-============
-
-The simplest and cheapest method is IMDD (Intensity Modulation with Direct Detection). It is typically encoded as "NRZ" (Non-Return to Zero), which means: "bright for a 1, dim for a 0". This technique was used for all optical signals up to 10Gbps.
-
-Coherent modulations (QPSK, 8PSK, 16PSK, 32PSK, and 64PSK) are used for 100Gbps and higher bit rates.
-
 Fiber Types
 ============
 
