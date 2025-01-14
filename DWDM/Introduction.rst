@@ -57,7 +57,7 @@ Multi-Mode Fiber (MMF)
 
 Multi-Mode Fiber has been designed for use with "cheaper" light sources.
 
-MMF has extremely wide core (~50 micro meters), allowing the use of less prcisely focused, aimed and calibrated light sources.
+MMF has extremely wide core (~50 	$\mu$m micro meters), allowing the use of less prcisely focused, aimed and calibrated light sources.
 
 This comes at the expence of shorter link distance.
 
