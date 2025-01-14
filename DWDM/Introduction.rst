@@ -42,7 +42,7 @@ Fiber Connector Types
 
 UPC - Ultra polished Physical Contact - blue connector
 
-APC - Angled Physical Contact - green connector
+APC - Angled Physical Contact - green connector; They are used to minimize reflection in long haul systems.
 
 .. image:: /DWDM/Photos/UPC-and-APC-Connector.png
 
