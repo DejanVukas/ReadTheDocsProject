@@ -39,6 +39,8 @@ It's smart to leave some margin in your designs:
 - optic transmitter will cool with age (output power goes down, e.g. from 3dBm to -1dBm),
 - fiber cut fix will add more splices, etc.
 
+.. image:: /DWDM/Photos/Power-and-Link-Loss-Budget.jpg
+
 Amplifiers and Power Balance
 ===============================
 
@@ -46,16 +48,16 @@ Amplifier gain is not consistent across all wavelengths.
 
 The gain must be equalized, or after several amplification stages the power of some channels will be far higher.
 
-Amplifiers also have limits on their total system power - both what they can output and what they can take as input.
+Amplifiers also have limits on their **total system power** - both what they can **output** and what they can take as **input**.
 
 But the total input power changes as you add channels.
 
 .. caution::
-   A single DWDM channel at 10dBm is 10 mW of input power.
+   A single DWDM channel at 10dBm is 10 mW of input power. (Dejan: in video it is stated that it is 0.1mW and not 10mW! Double check!)
    
    40 DWDM channels at 10dBm is 400mW of power or 26dBm!
 
-   Do not sum up values in dBm, but absolut values in mW (i.e. it is not 40 x 10dBm, but 40 x 10mW)
+   Do not sum up values in dBm, but absolute values in mW (i.e. it is not 40 x 10dBm, but 40 x 10mW)
 
    10 x log(40 x 10) = 10 x (log40 + log10)
 
@@ -100,14 +102,14 @@ The target maximum BER is generally 10 exp(-12).
 Coherent Optical Technologies
 ===============================
 
-Choherent optics are a group of advancements in optical technology, which combine to deliver significantly increased optical performance.
+Coherent optics are a group of advancements in optical technology, which combine to deliver significantly increased optical performance.
 
 Coherent technologies generally consist of:
 
 - polarization multiplexing,
 - high-order phase modulation techniques,
 - using a laser as a local reference oscilator on the receive side,
-- addvanced Digital Signal Processing (DSPs) which are necessary to tie all of these together, recombine signals, and compensate for impairments.
+- advanced Digital Signal Processing (DSPs) which are necessary to tie all of these together, recombine signals, and compensate for impairments.
 
 These technologies combined deliver:
 
