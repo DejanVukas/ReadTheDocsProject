@@ -16,6 +16,10 @@ Has two modes of operation:
 OTDR (Optical Time-Domain Reflectometer)
 =============================================
 
+OTDR helps you predict and react to fiber failures.
+
+Enables fault location to within meters.
+
 Injects a series of light pulses into a fiber strand.
 
 Used to characterize a fiber, with information like:
