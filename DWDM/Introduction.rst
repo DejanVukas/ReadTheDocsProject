@@ -57,7 +57,7 @@ Multi-Mode Fiber (MMF)
 
 Multi-Mode Fiber has been designed for use with "cheaper" light sources.
 
-MMF has extremely wide core (~50 	\mu \textmu micro meters), allowing the use of less prcisely focused, aimed and calibrated light sources.
+MMF has extremely wide core (~50 micro meters), allowing the use of less precisely focused, aimed and calibrated light sources.
 
 This comes at the expence of shorter link distance.
 
@@ -82,7 +82,7 @@ SM fiber is used for high bandwidths and long distances.
 
 Has a much smaller core size, 8-10 micro meters. It prevents other modes from propagating along the fiber cable.
 
-Can easily transmit a signal several thousends kilometers (with appropriate amplification), without requiring regeneration.
+Can easily transmit a signal several thousands kilometers (with appropriate amplification), without requiring regeneration.
 
 Typlically supports distances of ~80km even without amplification.
 
