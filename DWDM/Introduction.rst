@@ -26,6 +26,26 @@ The vast majority of deployed fiber optic systems operate as "duplex" or as a fi
 
 But, fiber is perfectly capable of carrying many signals, in both directions, over a single strand. It just requires more expensive optical components to do so. It is typically reserved for systems where the fiber in question is relatively expensive (e.g. fiber going across the ocean).
 
+Bend Radius
+===============
+
+Bend radius is a real issue.
+
+Total internal reflection requires the light to hit the cladding below a "critical angle".
+
+Bending the fiber beyond it's specified bend radius causes light to leak out.
+
+There are "bend insensitive" fibers for use in residential or office environments which have less bend sensitivity, but they usually trade some performance under normal conditions to achieve this.
+
+Fiber Connector Types
+==========================
+
+UPC - Ultra polished Physical Contact - blue connector
+
+APC - Angled Physical Contact - green connector
+
+.. image:: /DWDM/Photos/UPC-and-APC-Connector.png
+
 Modulation
 ============
 
