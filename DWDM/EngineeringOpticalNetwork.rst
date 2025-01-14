@@ -53,7 +53,7 @@ Amplifiers also have limits on their **total system power** - both what they can
 But the total input power changes as you add channels.
 
 .. caution::
-   A single DWDM channel at 10dBm is 10 mW of input power. (Dejan: in video it is stated that it is 0.1mW and not 10mW! Double check!)
+   A single DWDM channel at 10dBm is 10 mW of input power. (Dejan: in video it is stated that it is 0.1mW and not 10mW! Also, optical power of 10dBm does not seem to be realistic. Double check!)
    
    40 DWDM channels at 10dBm is 400mW of power or 26dBm!
 
