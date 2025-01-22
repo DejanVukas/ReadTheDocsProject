@@ -4,6 +4,11 @@ Protection Schemes in Optical Networks
 L1 Protection - wavelength protection
 ======================================
 
+Optical splitters (50:50)
+
+Optical protection - split your signal in half and send down two different fiber paths. On the RX side use an optical switch with power monitoring capabilities on the receiver, have it automatically pick from the strongest signal.
+
+
 L2 Switching - Service Protection
 ======================================
 

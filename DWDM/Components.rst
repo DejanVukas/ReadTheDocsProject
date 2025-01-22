@@ -47,6 +47,7 @@ Selectively adds and drops certain WDM channels, while passing other channels th
 Mux/Demux is used at the end-point of a WDM network to split all of the component wavelengths, an OADM is used at a mid-point, often in a ring.
 
 It can be:
+
 #. FOADM, or
 #. ROADM
 

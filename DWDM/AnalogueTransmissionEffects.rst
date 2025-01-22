@@ -69,7 +69,7 @@ Note
 Amplifiers
 ============
 
-In case of optical attenuation, - OSNR becomes too low - receiver cannot detect the signal from the noise.
+In case of optical attenuation, OSNR becomes too low - receiver cannot detect the signal from the noise.
 To mitigate this effect we use amplifiers (e.g. EDFA amplifier), which amplifies all wavelengths at once, without terminating them.
 
 EDFA amplifiers operate in C-band.

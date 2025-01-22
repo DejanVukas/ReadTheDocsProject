@@ -84,7 +84,7 @@ Has a much smaller core size, 8-10 micro meters. It prevents other modes from pr
 
 Can easily transmit a signal several thousands kilometers (with appropriate amplification), without requiring regeneration.
 
-Typlically supports distances of ~80km even without amplification.
+Typically supports distances of ~80km even without amplification.
 
 Types of Single-Mode Fiber:
 
