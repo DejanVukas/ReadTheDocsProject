@@ -23,7 +23,7 @@ In practice, FEC works by improving the required Optical Signal to Noise Ratio (
 Muxponder (Multiplexing Transponder)
 ========================================
 
-Mux/Demux is a simple device which **combines or splits** multiple colors or light into a single fiber.
+Mux/Demux is a simple device which **combines or splits** multiple colors of light into a single fiber.
 Muxes are entirely passive devices, requiring no power.
 
 A complete system requires a mux+demux for TX and RX.
