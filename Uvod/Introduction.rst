@@ -101,6 +101,7 @@ Navigate to the project folder (e.g. ReadTheDocsProject) and type in:
     make html
 
 (it did not work for me from VS code terminal, but only from CMD prompt terminal)
+"cmd /c "c:\Users\Vukas\Desktop\Dejan\Python\Projects\ReadTheDocsProject\make.bat" html"
 We have to specify the root directory, and then it will work from VS Code terminal:
 
 .. code-block::
