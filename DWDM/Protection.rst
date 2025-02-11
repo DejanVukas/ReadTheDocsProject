@@ -8,6 +8,29 @@ Optical splitters (50:50)
 
 Optical protection - split your signal in half and send down two different fiber paths. On the RX side use an optical switch with power monitoring capabilities on the receiver, have it automatically pick from the strongest signal.
 
+SNCP (SubNetwork Connection Protection)
+-------------------------------------------
+
+SNCP can protect from equipment failures and fiber cut.
+Simply put, SNCP means: dual sending and selective receiving
+
+SNCP has two types:
+
+#. O-SNCP (Optical), and
+#. E-SNCP (Electrical).
+
+O-SNCP can be implemented by assigning 2 different devices and routes for the same optical signal.
+For traffic protection we send the same signal twice and selectively receive the main.
+It’s called dual sending & selective receiving in Huawei or as Nokia called it head end bridging and tail end switching.
+
+We have 2 options available to implement O-SNCP:
+
+#. Through Y cable, and
+#. Through OPS card (Optical Protection Switching).
+
+In OPS we have the chance to Improve the survivability by placing the main and standby transponder in 2 different shelves.
+
+.. image:: /DWDM/Photos/O_SNCPwithY_Cable.jpeg
 
 L2 Switching - Service Protection
 ======================================
