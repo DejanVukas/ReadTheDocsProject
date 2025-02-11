@@ -14,6 +14,8 @@ SNCP (SubNetwork Connection Protection)
 SNCP can protect from equipment failures and fiber cut.
 Simply put, SNCP means: dual sending and selective receiving
 
+SNCP operates at the subnetwork connection level, which refers to a specific path or connection between two nodes in the network.
+
 SNCP has two types:
 
 #. O-SNCP (Optical), and

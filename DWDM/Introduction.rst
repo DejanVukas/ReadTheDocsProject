@@ -101,6 +101,19 @@ OS1 is also called "tight buffered".
 
 OS2 is also called "loose", because it is blown into the duct.
 
+#. G657A2 – Best for Tight Bends & FTTH
+    #. Ideal for FTTH and indoor installations
+    #. Works well in tight spaces with minimal signal loss
+    #. Applications: Home, office setups, and areas with sharp bends
+#. G652D – Best for Long-Distance Networks
+    #. The most commonly used fiber for longhaul communication
+    #. Ideal for telecom networks and datacenters
+    #. Applications: Long-haul telecom, large-scale networks
+#. G656D – Best for High-Bandwidth Systems
+    #. Designed for highcapacity networks with heavy data traffic
+    #. Works well with DWDM and ultra-fast systems
+    #. Applications: High-speed metronetworks, long-distance, high-bandwidth applications
+
 Fiber Optic Transmission Bands
 ==================================
 
