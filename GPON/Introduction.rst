@@ -14,10 +14,12 @@ GPON (Gigabit Passive Optical Network) is an alternative to Ethernet switching i
 GPON adopts WDM to transmit data of different upstream/downstream wavelengths over the same ODN (Optical Distribution Network).
 
 1.2/2.4 GPON
+==============
 
 .. image:: /GPON/Photos/GPON.png
 
 10G XGS PON
+================
 
 .. image:: /GPON/Photos/10G_XGS_PON.png
 
@@ -28,6 +30,7 @@ Downstream packets are forwarded as broadcasts, with the same data sent to all t
 Maximum differential fiber distance: 20km
 
 PON topology (point-to-multipoint (P2MP) scheme) and point-to-point (P2P) architecture
+========================================================================================
 
 .. image:: /GPON/Photos/P2MP_P2P.png
 
