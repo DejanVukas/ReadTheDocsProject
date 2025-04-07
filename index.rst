@@ -46,6 +46,8 @@ Welcome to ReadTheDocsProject's documentation!
    :caption: GPON:
 
    GPON/Introduction
+   GPON/Components
+   GPON/LinkBudget
 
 .. toctree::
    :maxdepth: 1
