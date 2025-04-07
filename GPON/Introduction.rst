@@ -10,3 +10,4 @@ Introduction
 GPON is an alternative to Ethernet switching in campus networking. GPON replaces the traditional three-tier Ethernet design with a two-tier optic network which eliminates access and distribution Ethernet switches with passive optical devices.
 
 .. image:: /GPON/Photos/NetworkingGPON.avif
+
