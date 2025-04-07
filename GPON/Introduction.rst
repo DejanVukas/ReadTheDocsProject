@@ -13,6 +13,14 @@ GPON (Gigabit Passive Optical Network) is an alternative to Ethernet switching i
 
 GPON adopts WDM to transmit data of different upstream/downstream wavelengths over the same ODN (Optical Distribution Network).
 
+1.2/2.4 GPON
+
+.. image:: /GPON/Photos/GPON.png
+
+10G XGS PON
+
+.. image:: /GPON/Photos/10G_XGS_PON.png
+
 Data is broadcast in the downstream direction, and in the upstream direction data is burst in TDMA mode (based on timeslots).
 
 Downstream packets are forwarded as broadcasts, with the same data sent to all the same ONU/ONT with different data identified by the GEM port ID (GEM - GPON encapsulation method).
