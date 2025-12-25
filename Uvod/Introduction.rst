@@ -5,7 +5,7 @@
 
 ReadTheDocs provides:
 
-ObrisiMe
+ObrisiMeObrisano
 
 #. free hosting,
 #. automated integration with GitHub, GitLab, and BitBucket, and
