@@ -5,8 +5,6 @@
 
 ReadTheDocs provides:
 
-test DELETE_ME
-
 #. free hosting,
 #. automated integration with GitHub, GitLab, and BitBucket, and
 #. you can host documentation locally.
