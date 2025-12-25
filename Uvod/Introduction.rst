@@ -5,8 +5,6 @@
 
 ReadTheDocs provides:
 
-ObrisiMeObrisano
-
 #. free hosting,
 #. automated integration with GitHub, GitLab, and BitBucket, and
 #. you can host documentation locally.
